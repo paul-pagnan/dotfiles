@@ -125,3 +125,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	emal = paul@pagnan.com.au
+	name = Paul Pagnan
